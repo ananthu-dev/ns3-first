@@ -12,7 +12,8 @@ This is a demo repository.
 4. Learn how to change message of your last commit(Try to find out all the possible approaches and the best approach).
 
 
-Reference Links:
-https://tutorialzine.com/2016/06/learn-git-in-30-minutes
-https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
+##Reference Links:
+
+1. https://tutorialzine.com/2016/06/learn-git-in-30-minutes
+2. https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
 
