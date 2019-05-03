@@ -10,6 +10,8 @@ This is a demo repository.
 2. Keep your repo up-to-date with the upstream.
 3. Learn how to go back to your last commit.
 4. Learn how to change message of your last commit(Try to find out all the possible approaches and the best approach).
+5. Learn how to create a patch for the specific commit.
+6. Check out what is merge conflict, how to resolve merge conflict.
 
 
 ## Reference Links:
