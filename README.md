@@ -18,4 +18,5 @@ This is a demo repository.
 
 1. https://tutorialzine.com/2016/06/learn-git-in-30-minutes
 2. https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
+3. Progit book by Scott Chacon and Ben Straub
 
